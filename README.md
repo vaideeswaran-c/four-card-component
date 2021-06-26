@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
--   Solution URL: [Add solution URL here](https://your-solution-url.com)
--   Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+-   Solution URL: [Frontend Mentor Solution](https://www.frontendmentor.io/solutions/mobile-first-four-card-component-HB0R3s_-d)
+-   Live Site URL: [Netlify Live Site](https://crimson-four-card.netlify.app/)
 
 ## My process
 
